@@ -1,4 +1,5 @@
 leyda yamilet estrada tepec 
-sexo: mujer 
-edad: 17 años
+sexo: hombre
+edad: 20  años
 ocupacion: pendejear todo tiempo
+tiende a uerer hacer todo al mismo timpo y no hace nada 
